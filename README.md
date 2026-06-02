@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm JI SEOMUN 👋
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 <!--
