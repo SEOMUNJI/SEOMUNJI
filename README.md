@@ -1,7 +1,7 @@
 ## Hi I'm JI SEOMUN 👋
 
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=F5FFFA&height=300&section=header&text=JI's%20Github&fontSize=80&animation=fadeIn&fontAlignY=38"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=BEE6FC&height=300&section=header&text=JI's%20Github&fontSize=80&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
