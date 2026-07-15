@@ -1,6 +1,6 @@
 ## Hi I'm JI SEOMUN 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E0709B&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=77F7E7&height=150&section=header" />
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 <!--
