@@ -30,8 +30,8 @@
     </div>
     <div align= "center"> 
     </div>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEOMUNJI&show_icons=true&theme=radical)
+    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tulipurple&layout=compact)
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
     
