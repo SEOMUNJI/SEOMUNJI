@@ -4,6 +4,14 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=ACFFEF&height=170&section=header&text=JI's%20Github&fontSize=50&animation=fadeIn&fontAlignY=38"/>
 </p>
 
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=SEOMUNJI&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/SEOMUNJI"
+  width="600"
+  height="300"
+/>
+</a>
+
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 --
 <div align= "center">
