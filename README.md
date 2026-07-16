@@ -29,8 +29,7 @@
     </div>
     <div align= "center"> 
     </div>
-    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEOMUNJI&layout=compact)
+
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
     
