@@ -1,7 +1,7 @@
 # Hi I'm JI SEOMUN 👋
 
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=ACFFEF&height=170&section=header&text=JI's%20Github&fontSize=50&animation=fadeIn&fontAlignY=38"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD1DC&height=170&section=header&text=JI's%20Github&fontSize=50&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=SEOMUNJI&utm_content=farm">
